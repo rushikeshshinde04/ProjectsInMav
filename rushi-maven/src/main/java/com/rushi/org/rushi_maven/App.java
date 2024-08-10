@@ -5,7 +5,7 @@ package com.rushi.org.rushi_maven;
  *
  */
 
-// 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
+// ghp_HdHNQhoO2GoNqlTaPhhKjF4RLawlHO256By
 public class App 
 {
     public static void main( String[] args )  
